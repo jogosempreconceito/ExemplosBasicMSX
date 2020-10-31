@@ -1,0 +1,28 @@
+C# F# G# C# (C# G# F# E) 
+E C# E	
+C# A
+B E C# A B
+E 
+E G# A 
+B G#
+A 
+C# F# G# C# (C# G# F# E) 
+E C# E	
+C# A	
+E  C# A B  
+C# F# G# C# (C# G# F# E) 
+
+10 PLAY "C#F#G#C#C#G#F#E" 
+20 PLAY "EC#E"	
+30 PLAY "C#A"
+
+B E C# A B
+E 
+E G# A 
+B G#
+A 
+C# F# G# C# (C# G# F# E) 
+E C# E	
+C# A	
+E  C# A B  
+C# F# G# C# (C# G# F# E) 
